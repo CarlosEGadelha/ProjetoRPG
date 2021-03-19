@@ -1,0 +1,26 @@
+C:\Users\Second\source\repos\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.exe
+C:\Users\Second\source\repos\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.deps.json
+C:\Users\Second\source\repos\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.runtimeconfig.json
+C:\Users\Second\source\repos\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.runtimeconfig.dev.json
+C:\Users\Second\source\repos\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.dll
+C:\Users\Second\source\repos\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.pdb
+C:\Users\Second\source\repos\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.csprojAssemblyReference.cache
+C:\Users\Second\source\repos\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.AssemblyInfoInputs.cache
+C:\Users\Second\source\repos\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.AssemblyInfo.cs
+C:\Users\Second\source\repos\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.csproj.CoreCompileInputs.cache
+C:\Users\Second\source\repos\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.dll
+C:\Users\Second\source\repos\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.pdb
+C:\Users\Second\source\repos\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.exe
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.deps.json
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.runtimeconfig.json
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.runtimeconfig.dev.json
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\bin\Debug\netcoreapp3.1\Heroi.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\Faculdade-master\3ºSem\Heroi\Heroi\obj\Debug\netcoreapp3.1\Heroi.genruntimeconfig.cache
